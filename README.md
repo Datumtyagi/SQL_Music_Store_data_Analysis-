@@ -1,7 +1,5 @@
 Project Title: **Analyzing Online Music Store Data Using SQL**
 
-**Project Overview**:
-In this beginner-friendly project, I aim to learn how to analyze data from an online music store's playlist database. By utilizing SQL, I will gain hands-on experience in examining the dataset to derive insights and help the store understand its business growth. Through this project, I will answer key questions that reflect the store's performance and customer preferences.
 
 **Project Objectives**:
 
@@ -28,7 +26,7 @@ I will use a sample dataset representing the online music store's playlists, sal
 
 **Deliverables**:
 
-A set of SQL queries used to analyze the dataset.
+A set of SQL queries is used to analyze the dataset.
 A report summarizing the findings and insights derived from the analysis.
 Visual representations (optional) to illustrate key points and trends.
 
